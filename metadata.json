@@ -1,0 +1,5 @@
+{
+  "name": "AI News",
+  "description": "An Apple-style AI information aggregator featuring news, videos, and tools.",
+  "requestFramePermissions": []
+}
